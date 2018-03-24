@@ -1,4 +1,4 @@
-/*
+cout<<"/*
  *
  *  	Due March 26th
  *      Authors: Roberto Sciortino, Alessandro Petrangelo
@@ -15,7 +15,7 @@
 using namespace std;
 
 int main()
-{
+{cout<<"helloooo";
 	//creating 3 Graphs
 	DirectedGraph G1;
 	DAG G2;
